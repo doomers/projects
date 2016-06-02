@@ -1,2 +1,2 @@
 # projects
-Projects that I wrote in college
+Projects that I wrote in my college Jamia Millia Islamia

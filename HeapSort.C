@@ -35,7 +35,7 @@ void MaxHeapify(int A[],int n, int i)
 	}
 	
 	
-	if(2*i+2<n && A[2*i+2]>Max)  // 2*i+1 ir right child
+	if(2*i+2<n && A[2*i+2]>Max)  // 2*i+2 is right child
 	{
 		Max=A[2*i+2];
 		maxPos=2*i+2;

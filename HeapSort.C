@@ -1,6 +1,7 @@
 /* Heap Sort Program
    Name: Mohd Huzaifa Faruqui
    Roll No. : 14BCS0031
+   Algorithm : http://www.cs.umd.edu/~meesh/351/mount/lectures/lect13-heapsort.pdf
 */
 
 #include<stdio.h>
